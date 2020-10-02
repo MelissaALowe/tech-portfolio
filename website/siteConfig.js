@@ -12,8 +12,8 @@
 const users = [];
 
 const siteConfig = {
-    title: 'Your Name Here', // Title for your website.
-    tagline: 'Continuously improving, aspiring technologist.',
+    title: 'Melissa A Lowe', // Title for your website.
+    tagline: 'Technologist and change leader.',
     profilePhoto: 'img/profile.png',
     url: 'https://joatmon08.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
@@ -67,9 +67,9 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: '',
+        linkedin: 'melissaalowe',
         twitter: '',
-        github: '',
+        github: 'MelissaALowe',
     },
 
     // You may provide arbitrary config keys to be used as needed by your
